@@ -27,7 +27,7 @@ Here are some ideas to get you started:
  - 💻 *Back-End Development:*  <img align="center" height="30" src="https://img.icons8.com/color/48/000000/django.png"/> <img align="center" height="30" src="https://img.icons8.com/color/48/000000/flask.png"/> <img align="center" height="30" src="https://img.icons8.com/color/48/000000/mysql.png"/> <img align="center" height="30" src="https://img.icons8.com/color/48/000000/java-web-token.png"/>
 
  
- - 💻 *Work Experience:* I have worked in a Product based company for 1.8+ years as a Software Developer. Definitely it's helping me a lot in learning web development <img align="center" height="30" src="https://img.icons8.com/emoji/48/000000/rocket-emji.png"/> 
+ - 💻 *Work Experience:* I have worked in a Product based company for 2.5+ years as a Software Developer. Definitely it's helping me a lot in learning web development <img align="center" height="30" src="https://img.icons8.com/emoji/48/000000/rocket-emji.png"/> 
 
 📌 Here's a link to my [Portfolio](https://maxasif.github.io)
 
