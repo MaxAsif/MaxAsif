@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-📌 I am **Md Asif Iqbal**, a Software Developer, with 2.5+ years of experience.
+📌 I am **Md Asif Iqbal**, a Software Developer, with 3+ years of experience.
 
 📌 I am `extremely motivated` at learning to excel in my skills. `Consistency` and `passion for my work` are the key factors towards my success.
 
