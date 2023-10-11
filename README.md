@@ -29,3 +29,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maxasif&show_icons=true&locale=en" alt="maxasif" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maxasif&" alt="maxasif" /></p>
+
+[![An image of @maxasif's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/maxasif)](https://holopin.io/@maxasif)
