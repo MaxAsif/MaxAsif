@@ -5,14 +5,6 @@
 
 - 🌱 I’m currently learning **Rust**
 
-# - 👨‍💻 All of my projects are available at [https://maxasif.nexuslab.in/](https://maxasif.nexuslab.in/)
-
-# - 📝 I regularly write articles on [https://medium.com/@asifiqbal7](https://medium.com/@asifiqbal7)
-
-# - 📫 How to reach me **asifiqbal7.iitkgp@gmail.com**
-
-# - 📄 Know about my experiences [https://maxasif.nexuslab.in/cv/Asif_CV.pdf](https://maxasif.nexuslab.in/cv/Asif_CV.pdf)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/asif_iqbal_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="asif_iqbal_7" height="30" width="40" /></a>
